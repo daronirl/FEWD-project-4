@@ -1,0 +1,9 @@
+
+@mixin medium {
+    @media ($brk-medium) {
+        @content;
+
+    }
+
+
+}
